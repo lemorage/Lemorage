@@ -6,14 +6,14 @@
 
 <!-- Starting point -->
 <body>
-<h1 align="center">🌟 <i>My World</i> 💫</h1><br>
+<h1 align="center">🌟 ᗰY ᗯᓍᖇᒪᗪ 💫</h1><br>
   <div align="center">
     <img src="https://media.giphy.com/media/xmg2BV2OeGswIeFNEa/giphy-downsized-large.gif" width="48%">
   </div><br>
 
 <!-- First Part -->
 <div>
-  <h1 align="left"><i>~Skills~</i></h1>
+  <h1 align="left">~ 𝘚𝘬𝘪𝘭𝘭𝘴 ~</h1>
 </div>
 <div>
   <p>
@@ -30,7 +30,7 @@ I am a Rubyist developer, keen on designing and developing extraordinary website
 
 <!-- Second Part -->
 <div>
-  <h1 align="left"><i>🍋 ~About me~ 🍊</i></h1>
+  <h1 align="left">🍋 ~ 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦 ~ 🍊</h1>
 <div align="right">
   <img src="https://media.giphy.com/media/JVmEcUWiwrFVAgTOga/giphy.gif" align="right" width="27%">
 </div>
@@ -55,7 +55,7 @@ I am a Rubyist developer, keen on designing and developing extraordinary website
 
 <!-- Last Part -->
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">🍰 ~ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻💙𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔❣ ~ 🍰</h2>
   <div align="center">
     <img src="https://i.imgur.com/qgxlZUH.gif">
   </div>
