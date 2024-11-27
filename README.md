@@ -24,9 +24,9 @@ I believe in the power of _open source_ and _equal contribution_, as a core life
 ### 📊 My GitHub Stats
 [![Wakatime](https://wakatime.com/badge/user/6600b633-9a78-473a-b2c1-4fca9188b8ab.svg?style=social)](https://wakatime.com/@lemorage)
 <div align="center">
-  <img src="https://github-readme-stats-ten-zeta-25.vercel.app/api/top-langs/?username=lemorage&layout=compact&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5&lang_count=8" alt="Top Languages" height="148">
-  <img src="https://github-readme-stats-ten-zeta-25.vercel.app/api?username=lemorage&rank_icon=percentile&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="149">
-  <img src="https://github-readme-stats-ten-zeta-25.vercel.app/api/wakatime?username=@lemorage&theme=catppuccin_mocha&langs_count=5" alt="WakaTime Stats" height="148">
+  <img src="https://github-readme-stats-ten-zeta-25.vercel.app/api/top-langs/?username=lemorage&layout=compact&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5&lang_count=8" alt="Top Languages" height="124">
+  <img src="https://github-readme-stats-ten-zeta-25.vercel.app/api?username=lemorage&rank_icon=percentile&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="124">
+  <img src="https://github-readme-stats-ten-zeta-25.vercel.app/api/wakatime?username=@lemorage&theme=catppuccin_mocha&langs_count=5" alt="WakaTime Stats" height="124">
 </div>
 
 <!--
